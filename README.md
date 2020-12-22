@@ -1,4 +1,4 @@
-# A simple maintenance page.
+# A simple HTML Maintenance page.
 
 <b>Demo:</b> <a target="_blank" href="https://localnetwork.github.io/maintenance-page/">https://localnetwork.github.io/maintenance-page/</a>
 
